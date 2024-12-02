@@ -1,0 +1,24 @@
+.odd-numbered-elements {
+  background-color: rgb(255, 192, 203);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+
+
+}
+.adjust-font-size {
+  font-size: 24px;
+}
+#element2 {
+  font-size: 36px;
+  color: blue;
+}
+#element3 {
+  font-size: 24px;
+}
+#element4 {
+  background-color: green;
+  font-size: 24px;
+  font-weight: bold;
+}
+body {
+  background-color: gray;
+}
